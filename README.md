@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Dimitri Racordon.
+I love coding, talking about programming languages and playing Stracraft 2.
+
+I am a post-doc researcher at University of Geneva, focusing my work on type-based approaches for memory safety.
+My main research interests include type systems (obviously), language design, compiler construction and virtual machine implementations.
+I am currently involved in two projects; one consists in developing a low-level IR to analyze memory safety properties, the other is to formalize (parts of) the Swift programming language.
+
 <!--
 **kyouko-taiga/kyouko-taiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
